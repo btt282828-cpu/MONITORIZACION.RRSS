@@ -1,0 +1,135 @@
+# ============================================================
+#  CONFIGURACIÓN — Monitor Santander v2
+#  Aquí se cambian temas, palabras y cuentas SIN tocar el código.
+#  Las tildes y mayúsculas dan igual (se normalizan solas).
+# ============================================================
+
+zona_horaria: Europe/Madrid
+horas_resumen: [9, 14, 21]       # a estas horas te llega el resumen por Telegram
+max_alertas_por_pasada: 10       # el resto de alertas va al resumen (evita avalanchas)
+max_por_tema_en_resumen: 12
+antiguedad_max_horas: 36         # ignora noticias más viejas que esto
+
+# ---------- ZONA ----------
+# Una noticia "local" debe mencionar alguna de estas palabras.
+zona:
+  - santander
+  - cantabria
+  - cantabr            # cántabro, cántabra...
+  - torrelavega
+  - castro urdiales
+  - laredo
+  - astillero
+  - camargo
+  - maliano
+  - muriedas
+  - pielagos
+  - santona
+  - reinosa
+  - suances
+  - comillas
+  - colindres
+  - noja
+  - liebana
+  - potes
+  - san vicente de la barquera
+  - sardinero
+  - penacastillo
+  - parayas
+  - seve ballesteros
+
+# Si aparece alguno de estos y NO aparece ninguna otra palabra de zona
+# (aparte de "santander"), se descarta: evita Banco Santander, Colombia...
+excluir:
+  - banco santander
+  - grupo santander
+  - santander consumer
+  - santander bank
+  - santander uk
+  - santander brasil
+  - santander mexico
+  - ana botin
+  - openbank
+  - colombia
+  - bucaramanga
+  - cucuta
+  - norte de santander
+
+# ---------- TEMAS ----------
+# prioridad alta  -> aviso inmediato por Telegram
+# prioridad media/baja -> va al resumen
+# Las palabras funcionan como "empieza por": "concentra" pilla concentración, concentramos...
+temas:
+  protestas:
+    prioridad: alta
+    palabras: [concentra, manifesta, protesta, convoca, moviliza, cacerolada, acampa, piquete, encierro, marcha por, sentada]
+  huelgas:
+    prioridad: alta
+    palabras: [huelga, servicios minimos, paro general, paros parciales]
+  emergencias:
+    prioridad: alta
+    palabras: [incendio, explosion, evacua, desaloj, inundacion, temporal, aviso naranja, aviso rojo, alerta naranja, alerta roja, "112", rescate, derrumbe, fuga de gas, herido, fallecid]
+  movilidad:
+    prioridad: alta
+    palabras: [corte de trafico, cortad, carretera cortada, a-67, a-8, s-10, s-20, desvio, retenciones, renfe, cercanias, adif, alsa, aeropuerto, ferry, brittany, puerto de santander, cancelad, suspendid]
+  servicios:
+    prioridad: media
+    palabras: [corte de agua, corte de luz, apagon, sin suministro, averia]
+  politica:
+    prioridad: media
+    palabras: [elecciones, mitin, campana electoral, candidat, pleno, junta electoral, encuesta, votacion, debate electoral]
+  vivienda:
+    prioridad: media
+    palabras: [desahucio, vivienda, alquiler, fondo buitre, fondos buitre, sindicato de vivienda, okupa]
+  sucesos:
+    prioridad: media
+    palabras: [detenid, agresion, robo, operacion policial, guardia civil, policia nacional, policia local]
+  eventos:
+    prioridad: baja
+    palabras: [concierto, festival, feria, racing, fiesta, exposicion, maraton, procesion]
+
+# ---------- FUENTES (todas gratuitas) ----------
+fuentes:
+  google_news:
+    ventana: 1d
+    locales:          # deben mencionar la zona
+      - 'Santander -"Banco Santander" -Botín -Colombia -Bucaramanga'
+      - 'Cantabria'
+      - '(concentración OR manifestación OR protesta OR huelga OR convocatoria) (Santander OR Cantabria)'
+      - '(incendio OR accidente OR corte OR cortada OR evacuación OR temporal) (Santander OR Cantabria)'
+      - '(elecciones OR mitin OR candidato OR candidata OR encuesta) Cantabria'
+      - 'site:elfaradio.com'
+      - 'site:eldiariomontanes.es'
+      - 'site:ifomo.es'
+    nacionales:       # no hace falta que mencionen Santander, pero deben encajar en un tema
+      - '"huelga general"'
+      - '"elecciones generales" ("29 de noviembre" OR 29N)'
+      - 'huelga (Renfe OR Adif OR ALSA OR transportistas OR "controladores aéreos" OR Aena)'
+      - '(aviso OR alerta) AEMET (Cantábrico OR Cantabria)'
+
+  rss_medios:         # RSS propio de medios locales
+    - https://www.elfaradio.com/feed/
+
+  gdelt:              # base de datos mundial de noticias, se actualiza cada 15 min
+    - '(Santander OR Cantabria) sourcelang:spanish'
+
+  reddit:             # subreddits
+    - cantabria
+
+  mastodon_hashtags:  # servidor/hashtag
+    - mastodon.social/santander
+    - mastodon.social/cantabria
+
+  bluesky_busquedas:  # necesita secrets BSKY_HANDLE y BSKY_APP_PASSWORD (si no, se salta)
+    - Santander
+    - Cantabria
+
+  bluesky_cuentas: [] # handles, p.ej.:  - algo.bsky.social
+
+  telegram_canales: [] # canales PÚBLICOS: de t.me/NOMBRE pon solo NOMBRE
+
+  instagram:          # necesita secrets IG_USER_ID y META_TOKEN (si no, se salta)
+    intervalo_min: 30
+    token_caduca: ""  # fecha AAAA-MM-DD en que caduca el token de Meta -> te avisa 7 días antes
+    cuentas:
+      - sindicatoviviendacantabria
