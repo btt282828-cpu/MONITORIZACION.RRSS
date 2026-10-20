@@ -77,10 +77,12 @@ def patron(palabras):
     partes = []
     for p in palabras or []:
         p = norm(p)
+        exacta = p.endswith("!")          # "ere!" = palabra exacta (no pilla "eres")
+        p = p.rstrip("!").strip()
         if not p:
             continue
         esc = re.escape(p)
-        partes.append(rf"\b{esc}\b" if p.isdigit() else rf"\b{esc}")
+        partes.append(rf"\b{esc}\b" if (exacta or p.isdigit()) else rf"\b{esc}")
     return re.compile("|".join(partes)) if partes else None
 
 
@@ -138,6 +140,23 @@ def tg(texto, preview=False):
                 time.sleep(2)
         time.sleep(1)
     return ok
+
+
+def tg_doc(ruta, caption=""):
+    if SECO or not TG_TOKEN:
+        print(f"[TELEGRAM DOC] {ruta}  {caption}")
+        return True
+    try:
+        with open(ruta, "rb") as f:
+            r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendDocument",
+                              data={"chat_id": TG_CHAT, "caption": caption[:1000], "parse_mode": "HTML"},
+                              files={"document": (Path(ruta).name, f)}, timeout=60)
+        if not r.ok:
+            print("Telegram (documento) respondió:", r.text)
+        return r.ok
+    except (OSError, requests.RequestException) as e:
+        print("Error enviando documento:", e)
+        return False
 
 
 def tg_comandos(estado):
@@ -479,7 +498,7 @@ def msg_estado(estado, n_tareas):
 
 
 AYUDA = ("🤖 <b>Comandos</b>\n/resumen – resumen ahora\n/estado – salud de las fuentes\n"
-         "/ayuda – esta ayuda\n\nResponde en la siguiente pasada (10–20 min).")
+         "/semanal – informe Word de los últimos 7 días\n/ayuda – esta ayuda\n\nResponde en la siguiente pasada (10–20 min).")
 
 
 # ---------------------------------------------------------------- pasada
@@ -542,7 +561,10 @@ def pasada():
             estado["ultimo_item"] = ts_ahora
             if primera:
                 continue
-            alertar = c["prioridad"] == "alta"
+            alertar = c["prioridad"] == "alta" and (
+                c["ambito"] != "nacional"
+                or any(t in cfg.get("alertas_nacionales", ["huelgas", "movilidad", "emergencias"])
+                       for t in c["temas"]))
             pendientes_nuevos.append({"titulo": it["titulo"], "url": it["url"], "fuente": it["fuente"],
                                       "temas": c["temas"], "prioridad": c["prioridad"],
                                       "ambito": c["ambito"], "ts": ts_ahora, "alertado": False})
@@ -623,10 +645,36 @@ def pasada():
         slot = hoy.replace(hour=hr, minute=0, second=0, microsecond=0)
         if hoy >= slot and (desde_iso(estado.get("ultimo_resumen")) or slot - timedelta(1)) < slot:
             toca = slot
+    if primera and "/resumen" in cmds:
+        tg("Acabo de arrancar: todavía no hay nada acumulado. Pídeme /resumen dentro de un rato.")
     if not primera and (toca or "/resumen" in cmds):
         if tg(msg_resumen(estado, cfg, tz, "Resumen" if toca else "Resumen a petición")):
             estado["pendientes"] = []
             estado["ultimo_resumen"] = ts_ahora
+
+    # informe semanal en Word (el CSV se guarda antes para incluir lo de esta pasada)
+    guardar_csv(filas_csv)
+    filas_csv = []
+    sem = cfg.get("informe_semanal") or {}
+    dia_sem, hora_sem = sem.get("dia", 4), sem.get("hora", 20)          # 4 = viernes
+    marca_sem = hoy.date().isoformat()
+    toca_sem = (sem.get("activo", True) and hoy.weekday() == dia_sem and hoy.hour >= hora_sem
+                and estado.get("ultimo_semanal") != marca_sem)
+    if primera and "/semanal" in cmds:
+        tg("Acabo de arrancar: aún no hay datos para el informe semanal.")
+    if not primera and (toca_sem or "/semanal" in cmds):
+        try:
+            from informe_semanal import generar
+            ruta, n, n_alta = generar(sem.get("dias", 7), cfg.get("zona_horaria", "Europe/Madrid"),
+                                      list((cfg.get("temas") or {}).keys()) + ["otros"])
+            if tg_doc(ruta, f"📄 <b>Informe semanal</b> · {n} eventos, {n_alta} importantes.\n"
+                            "Ábrelo con Word; los titulares son enlaces."):
+                if toca_sem:
+                    estado["ultimo_semanal"] = marca_sem
+        except Exception as e:                                   # noqa: BLE001
+            tg(f"❌ No he podido generar el informe semanal: {html.escape(repr(e))[:300]}")
+            if toca_sem:
+                estado["ultimo_semanal"] = marca_sem
 
     estado["ultima_pasada"] = hoy.strftime("%d/%m %H:%M")
     guardar_csv(filas_csv)

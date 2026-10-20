@@ -8,7 +8,17 @@ zona_horaria: Europe/Madrid
 horas_resumen: [9, 14, 21]       # a estas horas te llega el resumen por Telegram
 max_alertas_por_pasada: 10       # el resto de alertas va al resumen (evita avalanchas)
 max_por_tema_en_resumen: 12
+
+informe_semanal:                 # te llega un Word por Telegram (también con /semanal)
+  activo: true
+  dia: 4                         # 0=lunes ... 4=viernes ... 6=domingo
+  hora: 20
+  dias: 7                        # días que abarca el informe
 antiguedad_max_horas: 36         # ignora noticias más viejas que esto
+
+# Noticias NACIONALES de prioridad alta: solo avisan al momento si son de estos temas
+# (el resto de lo nacional va al resumen, para no llenarte el móvil).
+alertas_nacionales: [huelgas, movilidad, emergencias]
 
 # ---------- ZONA ----------
 # Una noticia "local" debe mencionar alguna de estas palabras.
@@ -59,10 +69,20 @@ excluir:
 # prioridad alta  -> aviso inmediato por Telegram
 # prioridad media/baja -> va al resumen
 # Las palabras funcionan como "empieza por": "concentra" pilla concentración, concentramos...
+# Con ! al final es palabra exacta: "ere!" pilla ERE pero no "eres".
 temas:
+  orden_publico:
+    prioridad: alta
+    palabras: [disturbio, altercado, carga policial, cargas policiales, cargo contra, enfrentamiento, incidentes, contramanifesta, barricada, pelea multitudinaria, detenidos tras]
+  extremismo:
+    prioridad: alta
+    palabras: [extrema derecha, ultraderecha, ultraderechista, neonazi, nazi, fascis, falange, falangista, hogar social, democracia nacional, skinhead, simbologia nazi, extrema izquierda, ultraizquierda, antifascis, antifa, anarquis, delito de odio, delitos de odio]
   protestas:
     prioridad: alta
     palabras: [concentra, manifesta, protesta, convoca, moviliza, cacerolada, acampa, piquete, encierro, marcha por, sentada]
+  sindicatos:
+    prioridad: media
+    palabras: [ccoo, comisiones obreras, ugt, union general de trabajadores, cgt, cnt, csif, sindicato uso, sindicato de vivienda, sindicato de inquilinas, sindicato de estudiantes, comite de empresa, convenio colectivo, delegados sindicales, expediente de regulacion, ere!]
   huelgas:
     prioridad: alta
     palabras: [huelga, servicios minimos, paro general, paros parciales]
@@ -71,13 +91,13 @@ temas:
     palabras: [incendio, explosion, evacua, desaloj, inundacion, temporal, aviso naranja, aviso rojo, alerta naranja, alerta roja, "112", rescate, derrumbe, fuga de gas, herido, fallecid]
   movilidad:
     prioridad: alta
-    palabras: [corte de trafico, cortad, carretera cortada, a-67, a-8, s-10, s-20, desvio, retenciones, renfe, cercanias, adif, alsa, aeropuerto, ferry, brittany, puerto de santander, cancelad, suspendid]
+    palabras: [corte de trafico, cortes de trafico, cortad, carretera cortada, desvio, retenciones, atasco, accidente de trafico, colision, salida de via, vuelos cancelados, trenes cancelados, sin trenes, suspendido el servicio, servicio suspendido, servicios minimos]
   servicios:
     prioridad: media
     palabras: [corte de agua, corte de luz, apagon, sin suministro, averia]
   politica:
     prioridad: media
-    palabras: [elecciones, mitin, campana electoral, candidat, pleno, junta electoral, encuesta, votacion, debate electoral]
+    palabras: [pp!, elecciones, mitin, campana electoral, candidat, pleno, junta electoral, encuesta, votacion, debate electoral, partido popular, populares, psoe, socialistas, vox, prc, partido regionalista, revilla, buruaga, podemos, sumar, izquierda unida, parlamento de cantabria, gobierno de cantabria, gema igual]
   vivienda:
     prioridad: media
     palabras: [desahucio, vivienda, alquiler, fondo buitre, fondos buitre, sindicato de vivienda, okupa]
@@ -98,6 +118,10 @@ fuentes:
       - '(concentración OR manifestación OR protesta OR huelga OR convocatoria) (Santander OR Cantabria)'
       - '(incendio OR accidente OR corte OR cortada OR evacuación OR temporal) (Santander OR Cantabria)'
       - '(elecciones OR mitin OR candidato OR candidata OR encuesta) Cantabria'
+      - '(CCOO OR UGT OR "Comisiones Obreras" OR CGT OR CNT OR CSIF) (Santander OR Cantabria)'
+      - '("extrema derecha" OR ultraderecha OR neonazi OR falange OR "extrema izquierda" OR antifascista OR antifa) (Santander OR Cantabria)'
+      - '(Vox OR PRC OR "Partido Regionalista" OR PSOE OR "Partido Popular" OR Podemos OR Sumar OR "Izquierda Unida") Cantabria (mitin OR acto OR campaña OR concentración)'
+      - '(disturbios OR altercados OR "cargas policiales" OR enfrentamientos) (Santander OR Cantabria)'
       - 'site:elfaradio.com'
       - 'site:eldiariomontanes.es'
       - 'site:ifomo.es'
@@ -106,6 +130,7 @@ fuentes:
       - '"elecciones generales" ("29 de noviembre" OR 29N)'
       - 'huelga (Renfe OR Adif OR ALSA OR transportistas OR "controladores aéreos" OR Aena)'
       - '(aviso OR alerta) AEMET (Cantábrico OR Cantabria)'
+      - '(CCOO OR UGT) (huelga OR movilización OR manifestación OR "huelga general")'
 
   rss_medios:         # RSS propio de medios locales
     - https://www.elfaradio.com/feed/
