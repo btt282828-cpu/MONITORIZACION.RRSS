@@ -5,7 +5,7 @@
 # ============================================================
 
 zona_horaria: Europe/Madrid
-horas_resumen: [9, 14, 21]       # a estas horas te llega el resumen por Telegram
+horas_resumen: [9, 12, 15, 18, 21]   # más frecuente mientras dure lo de Francia; luego vuelve a [9, 14, 21]
 max_alertas_por_pasada: 10       # el resto de alertas va al resumen (evita avalanchas)
 max_por_tema_en_resumen: 12
 
@@ -18,7 +18,7 @@ antiguedad_max_horas: 36         # ignora noticias más viejas que esto
 
 # Noticias NACIONALES de prioridad alta: solo avisan al momento si son de estos temas
 # (el resto de lo nacional va al resumen, para no llenarte el móvil).
-alertas_nacionales: [huelgas, movilidad, emergencias, eta_borroka]
+alertas_nacionales: [huelgas, movilidad, emergencias, eta_borroka, francia]
 
 # ---------- ZONA ----------
 # Una noticia "local" debe mencionar alguna de estas palabras.
@@ -77,6 +77,9 @@ temas:
   extremismo:
     prioridad: alta
     palabras: [extrema derecha, ultraderecha, ultraderechista, neonazi, nazi, fascis, falange, falangista, hogar social, democracia nacional, skinhead, simbologia nazi, extrema izquierda, ultraizquierda, antifascis, antifa, anarquis, delito de odio, delitos de odio]
+  francia:                        # solidaridad con las protestas de Francia (oct-nov 2026)
+    prioridad: alta
+    palabras: [solidaridad con francia, solidaridad con los estudiantes franceses, solidaridad con la juventud francesa, solidaridad con el pueblo frances, solidaridad con la revuelta, apoyo a las protestas de francia, protestas de francia, revuelta francesa, revuelta en francia, como en francia, francia en llamas, chalecos amarillos, gilets jaunes, juventud francesa, estudiantes franceses]
   eta_borroka:
     prioridad: alta
     palabras: [eta!, kale borroka, borroka, ongi etorri, presos de eta, expresos de eta, dispersion de presos, enaltecimiento del terrorismo, apologia del terrorismo, sabotaje, ataque a la sede, ataque contra la sede, pintadas amenazantes, artefacto, cocteles molotov, coctel molotov, quema de cajeros, contenedores quemados, segi!, jarrai, haika, gks!, gazte koordinadora]
@@ -126,6 +129,7 @@ fuentes:
       - '(Vox OR PRC OR "Partido Regionalista" OR PSOE OR "Partido Popular" OR Podemos OR Sumar OR "Izquierda Unida") Cantabria (mitin OR acto OR campaña OR concentración)'
       - '(disturbios OR altercados OR "cargas policiales" OR enfrentamientos) (Santander OR Cantabria)'
       - '(ETA OR "kale borroka" OR borroka OR abertzale OR "ongi etorri" OR "enaltecimiento del terrorismo") (Santander OR Cantabria)'
+      - '(Francia OR francesa OR franceses OR "chalecos amarillos") (concentración OR convocatoria OR solidaridad OR manifestación OR protesta) (Santander OR Cantabria)'
       - 'site:elfaradio.com'
       - 'site:eldiariomontanes.es'
       - 'site:ifomo.es'
@@ -137,6 +141,7 @@ fuentes:
       - '(CCOO OR UGT) (huelga OR movilización OR manifestación OR "huelga general")'
       - '("kale borroka" OR borroka OR sabotaje OR "ongi etorri" OR "cócteles molotov" OR "enaltecimiento del terrorismo") (Euskadi OR "País Vasco" OR Bilbao OR Donostia OR "San Sebastián" OR Vitoria OR Navarra OR Pamplona)'
       - '(ETA OR "presos de ETA") (homenaje OR "ongi etorri" OR atentado OR aniversario OR víctimas)'
+      - '(solidaridad OR concentración OR convocatoria OR manifestación) (Francia OR "estudiantes franceses" OR "juventud francesa" OR "chalecos amarillos") (Madrid OR Barcelona OR Bilbao OR Oviedo OR Gijón OR Valladolid OR Zaragoza OR Valencia OR Sevilla OR España)'
 
   rss_medios:         # RSS propio de medios locales
     - https://www.elfaradio.com/feed/
