@@ -1,163 +1,5 @@
 {
 "vistos": {
-"05b14980bc02ff13": "2026-10-28T06:47:00+00:00",
-"5d52615aebcf36dc": "2026-10-28T06:47:00+00:00",
-"cf88a6f10947cf34": "2026-10-28T06:47:00+00:00",
-"a9c42bd286ded61b": "2026-10-28T06:47:00+00:00",
-"38f71a56b546dce6": "2026-10-28T06:47:00+00:00",
-"39c5478a031bb6b6": "2026-10-28T06:47:00+00:00",
-"faf08f6bb4cb1f59": "2026-10-28T06:47:00+00:00",
-"266c2865f7422e6e": "2026-10-28T06:47:00+00:00",
-"370eedb02e038407": "2026-10-28T06:47:00+00:00",
-"232575de7171843f": "2026-10-28T06:47:00+00:00",
-"2cf747d2080bf520": "2026-10-28T06:47:00+00:00",
-"fcc18f19512375ce": "2026-10-28T06:47:00+00:00",
-"d85a366113417d48": "2026-10-28T06:47:00+00:00",
-"16518cee95e32d84": "2026-10-28T06:47:00+00:00",
-"a63ce3c543998ff2": "2026-10-28T06:47:00+00:00",
-"f98c8e9a4e474899": "2026-10-28T06:47:00+00:00",
-"b6bbed2b7edca6e0": "2026-10-28T06:47:00+00:00",
-"6dac272cb0eb17a6": "2026-10-28T06:47:00+00:00",
-"f9e316b09eb337ac": "2026-10-28T06:47:00+00:00",
-"aca307192f76dd67": "2026-10-28T06:47:00+00:00",
-"eab0d25b07135fb0": "2026-10-28T06:47:00+00:00",
-"239794f1974c360a": "2026-10-28T06:47:00+00:00",
-"2e42f0927a9fdc68": "2026-10-28T06:47:00+00:00",
-"007eaa71fd665907": "2026-10-28T06:47:00+00:00",
-"3efa612f9ed30dda": "2026-10-28T06:47:00+00:00",
-"7843839948deb06c": "2026-10-28T06:47:00+00:00",
-"bf9d39a6190f27cf": "2026-10-28T06:47:00+00:00",
-"16831997798a8c2d": "2026-10-28T06:47:00+00:00",
-"bd296b720cd8c846": "2026-10-28T06:47:00+00:00",
-"7f0a57378bbc1ca5": "2026-10-28T06:47:00+00:00",
-"2ad3b652953f0b1b": "2026-10-28T06:47:00+00:00",
-"90b22fb929febbe6": "2026-10-28T06:47:00+00:00",
-"9c35bcca620fb9de": "2026-10-28T06:47:00+00:00",
-"557360b42c4e736f": "2026-10-28T06:47:00+00:00",
-"24826f2d048028f9": "2026-10-28T06:47:00+00:00",
-"49bff15b1ab141b6": "2026-10-28T06:47:00+00:00",
-"fa2ce31edebae846": "2026-10-28T06:47:00+00:00",
-"30e7fd323a350b9f": "2026-10-28T06:47:00+00:00",
-"49632fa7886f19e7": "2026-10-28T06:47:00+00:00",
-"9501dfba9939056a": "2026-10-28T06:47:00+00:00",
-"6d1e85bc751f3ebf": "2026-10-28T06:47:00+00:00",
-"0baa9309f7ff6d3a": "2026-10-28T06:47:00+00:00",
-"3a80646b87eb9cb6": "2026-10-28T06:47:00+00:00",
-"334aa1ca6a065210": "2026-10-28T06:47:00+00:00",
-"099db64bd027a852": "2026-10-28T06:47:00+00:00",
-"a567ce031a8e4d6d": "2026-10-28T06:47:00+00:00",
-"dc93cc3df58e4f4e": "2026-10-28T06:47:00+00:00",
-"2e97e7944dcc61f6": "2026-10-28T06:47:00+00:00",
-"400217996107b7c5": "2026-10-28T06:47:00+00:00",
-"7351dd5a66ebe686": "2026-10-28T06:47:00+00:00",
-"b69724d34bd8a8a6": "2026-10-28T06:47:00+00:00",
-"774cc99e76773371": "2026-10-28T06:47:00+00:00",
-"eff66a97dbfc650b": "2026-10-28T06:47:00+00:00",
-"fa76ea93402b1ff0": "2026-10-28T06:47:00+00:00",
-"c608568816c369ba": "2026-10-28T06:47:00+00:00",
-"3cdf6e5173c06522": "2026-10-28T06:47:00+00:00",
-"950171da898f7db4": "2026-10-28T06:47:00+00:00",
-"5735701f7d01074f": "2026-10-28T06:47:00+00:00",
-"fd3c4bae21f8d22c": "2026-10-28T06:47:00+00:00",
-"e45527183a93d715": "2026-10-28T06:47:00+00:00",
-"e984e25de832da5b": "2026-10-28T06:47:00+00:00",
-"5ef52371f8893092": "2026-10-28T06:47:00+00:00",
-"bb7c1328dbfb33bd": "2026-10-28T06:47:00+00:00",
-"5b8eb8c463b11c8d": "2026-10-28T06:47:00+00:00",
-"5153ae6aea8a4a6b": "2026-10-28T06:47:00+00:00",
-"153cdc12ebe9daf9": "2026-10-28T06:47:00+00:00",
-"923252497e3f7d2c": "2026-10-28T06:47:00+00:00",
-"a1caf578d3169cd9": "2026-10-28T06:47:00+00:00",
-"12fb07e477a18851": "2026-10-28T06:47:00+00:00",
-"0ea8d96c2d8f8514": "2026-10-28T06:47:00+00:00",
-"03a37d3d0c8ffdfb": "2026-10-28T06:47:00+00:00",
-"45de9db5e6c7ab57": "2026-10-28T06:47:00+00:00",
-"a3596dfd6d339021": "2026-10-28T06:47:00+00:00",
-"30f9d2e4b5c4920d": "2026-10-28T06:47:00+00:00",
-"5920463bb52917f9": "2026-10-28T06:47:00+00:00",
-"0891f5ee6d0fc426": "2026-10-28T06:47:00+00:00",
-"138cc3b9ddd606bc": "2026-10-28T06:47:00+00:00",
-"91a1826693eeb942": "2026-10-28T06:47:00+00:00",
-"e229340c42e27f08": "2026-10-28T06:47:00+00:00",
-"0ba1d2e7d9c74e6e": "2026-10-28T06:47:00+00:00",
-"ac6d0b5606b963ed": "2026-10-28T06:47:00+00:00",
-"fa2b3f216b66ec20": "2026-10-28T06:47:00+00:00",
-"0de1d8e910237e3b": "2026-10-28T06:47:00+00:00",
-"afa54bfbfc6a4ef8": "2026-10-28T06:47:00+00:00",
-"8201c389d1d50466": "2026-10-28T06:47:00+00:00",
-"249469abaae935fc": "2026-10-28T06:47:00+00:00",
-"e8894ea3d1a68d39": "2026-10-28T06:47:00+00:00",
-"29b82b762f00637d": "2026-10-28T06:47:00+00:00",
-"75d3d1d7d7cc91df": "2026-10-28T06:47:00+00:00",
-"054d3f9a549ee8c3": "2026-10-28T06:47:00+00:00",
-"f994c9b0e851aebd": "2026-10-28T06:47:00+00:00",
-"5a805be48d27b53a": "2026-10-28T06:47:00+00:00",
-"2240675f32e0cce9": "2026-10-28T06:47:00+00:00",
-"901b3adb77364f75": "2026-10-28T06:47:00+00:00",
-"6152303654f49fde": "2026-10-28T06:47:00+00:00",
-"50e1373896b50b3a": "2026-10-28T06:47:00+00:00",
-"222e3bd9ba0b185d": "2026-10-28T06:47:00+00:00",
-"f6d67b913018eefc": "2026-10-28T06:47:00+00:00",
-"daab02e6fbb9e5c1": "2026-10-28T06:47:00+00:00",
-"9a7ada2a27010fed": "2026-10-28T06:47:00+00:00",
-"8442399662c4b8d3": "2026-10-28T06:47:00+00:00",
-"abb7ae84badf6132": "2026-10-28T06:47:00+00:00",
-"52acb9d564921571": "2026-10-28T06:47:00+00:00",
-"161c77d7bcd928fe": "2026-10-28T06:47:00+00:00",
-"0cb173f7a45d0b05": "2026-10-28T06:47:00+00:00",
-"32a978e5c7472cfb": "2026-10-28T06:47:00+00:00",
-"009e21e2bcb4e8eb": "2026-10-28T06:47:00+00:00",
-"95c52910c8cb4ced": "2026-10-28T06:47:00+00:00",
-"40ea90b8ca4097e2": "2026-10-28T06:47:00+00:00",
-"f22642980f30a56d": "2026-10-28T06:47:00+00:00",
-"aa90307be6941411": "2026-10-28T06:47:00+00:00",
-"9ab94dd64d3ed2f7": "2026-10-28T06:47:00+00:00",
-"261fa8a3c7a5923d": "2026-10-28T06:47:00+00:00",
-"701aa9f134c00478": "2026-10-28T06:47:00+00:00",
-"13ec628c8a9cb3bf": "2026-10-28T06:47:00+00:00",
-"2a758b4ca6297702": "2026-10-28T06:47:00+00:00",
-"9b3ddb2f6b4f72e6": "2026-10-28T06:47:00+00:00",
-"f27321833f83cd84": "2026-10-28T06:47:00+00:00",
-"f9baf8448f9329ac": "2026-10-28T06:47:00+00:00",
-"ad01333dec7d6088": "2026-10-28T06:47:00+00:00",
-"9f00833b972b043c": "2026-10-28T06:47:00+00:00",
-"923df3884e7b64f7": "2026-10-28T06:47:00+00:00",
-"6dd92344e4b63ce5": "2026-10-28T06:47:00+00:00",
-"3a77e04e45c8c50c": "2026-10-28T06:47:00+00:00",
-"23d016dd96539f51": "2026-10-28T06:47:00+00:00",
-"8949deca9c9e1a97": "2026-10-28T06:47:00+00:00",
-"a6717ffb02714095": "2026-10-28T06:47:00+00:00",
-"3fd9ee18c287aa4a": "2026-10-28T06:47:00+00:00",
-"fe825d4a693b39e5": "2026-10-28T06:47:00+00:00",
-"56990cbd5f9a46f5": "2026-10-28T06:47:00+00:00",
-"f5168fa9c00f8741": "2026-10-28T06:47:00+00:00",
-"3a01a4e791b6ef5f": "2026-10-28T06:47:00+00:00",
-"f914d8a92020b70c": "2026-10-28T06:47:00+00:00",
-"a68814c765c00a3f": "2026-10-28T06:47:00+00:00",
-"1dae9962cf8fc1c0": "2026-10-28T06:47:00+00:00",
-"8a0c7b14ff1ea1d7": "2026-10-28T06:47:00+00:00",
-"eb17ee6ec661ae66": "2026-10-28T06:47:00+00:00",
-"458d4ef8a390d459": "2026-10-28T06:47:00+00:00",
-"eaf1d9ea6e3f3cd1": "2026-10-28T06:47:00+00:00",
-"c72cde2ee0969380": "2026-10-28T06:47:00+00:00",
-"83dc41e5cf671cf2": "2026-10-28T06:47:00+00:00",
-"89573ca3f4437e0b": "2026-10-28T06:47:00+00:00",
-"00feb267ad5499e8": "2026-10-28T06:47:00+00:00",
-"735f1b2222b730ef": "2026-10-28T06:47:00+00:00",
-"6631f72b96619882": "2026-10-28T06:47:00+00:00",
-"c4a4bdbdba4f676b": "2026-10-28T06:47:00+00:00",
-"985f397ef43bdcd6": "2026-10-28T06:47:00+00:00",
-"ff4d4269d060f303": "2026-10-28T06:47:00+00:00",
-"9ed636327b49e0cb": "2026-10-28T06:47:00+00:00",
-"44f0844bacf851ef": "2026-10-28T06:47:00+00:00",
-"5ae54775682964f4": "2026-10-28T06:47:00+00:00",
-"7c4c8b2812a09fff": "2026-10-28T06:47:00+00:00",
-"e323776df91df5bf": "2026-10-28T06:47:00+00:00",
-"d5644cd6e658e9ee": "2026-10-28T06:47:00+00:00",
-"8acd8e36570150c9": "2026-10-28T06:47:00+00:00",
-"2e4f8e40eff9eb40": "2026-10-28T06:47:00+00:00",
-"598d18d8a8012391": "2026-10-28T06:47:00+00:00",
-"ce854f3a95d803fc": "2026-10-28T06:47:00+00:00",
 "1cc0d65b77412b51": "2026-10-28T13:35:21+00:00",
 "b2fabb8bdabb5df7": "2026-10-28T13:35:21+00:00",
 "f88253825af5fc68": "2026-10-28T13:35:21+00:00",
@@ -14951,741 +14793,345 @@
 "63e97da092e38216": "2026-11-04T01:42:09+00:00",
 "90452c2f89a6a45a": "2026-11-04T01:42:09+00:00",
 "e6ffc2d9523fdcbf": "2026-11-04T01:42:09+00:00",
-"6e3c47d2efcd745f": "2026-11-04T01:42:09+00:00"
+"6e3c47d2efcd745f": "2026-11-04T01:42:09+00:00",
+"3f86ebe4c1e8919d": "2026-11-04T08:06:47+00:00",
+"4b7bf9a3651ab657": "2026-11-04T08:06:47+00:00",
+"a376ff641a3b6157": "2026-11-04T08:06:47+00:00",
+"f662d3958c5da4fc": "2026-11-04T08:06:47+00:00",
+"8afa77c66c4e75ef": "2026-11-04T08:06:47+00:00",
+"f1740310e1c40bf1": "2026-11-04T08:06:47+00:00",
+"b9c1c80e12e45018": "2026-11-04T08:06:47+00:00",
+"8197241ab9dc679a": "2026-11-04T08:06:47+00:00",
+"8d6d8992b9b2b82b": "2026-11-04T08:06:47+00:00",
+"1c801c6285408001": "2026-11-04T08:06:47+00:00",
+"8ded5224ba4c2319": "2026-11-04T08:06:47+00:00",
+"b30486d7f406e9e4": "2026-11-04T08:06:47+00:00",
+"38bcd3d2f93a8dda": "2026-11-04T08:06:47+00:00",
+"ddc231fa5662a96c": "2026-11-04T08:06:47+00:00",
+"ee1ded43632220f9": "2026-11-04T08:06:47+00:00",
+"b466193f061df2ee": "2026-11-04T08:06:47+00:00",
+"ecca27fad5774f30": "2026-11-04T08:06:47+00:00",
+"8c494095a5c59a55": "2026-11-04T08:06:47+00:00",
+"7c26a17e2960122c": "2026-11-04T08:06:47+00:00",
+"a92388b5a3739c91": "2026-11-04T08:06:47+00:00",
+"3135811198bc35f0": "2026-11-04T08:06:47+00:00",
+"53489317e1c09e1a": "2026-11-04T08:06:47+00:00",
+"1b050e6fb4c744db": "2026-11-04T08:06:47+00:00",
+"207d5e3c551050c0": "2026-11-04T08:06:47+00:00",
+"30214d62942992bf": "2026-11-04T08:06:47+00:00",
+"2bc18645fb5aa179": "2026-11-04T08:06:47+00:00",
+"38ded2bf85f56452": "2026-11-04T08:06:47+00:00",
+"e0a662b16891aaed": "2026-11-04T08:06:47+00:00",
+"826df8156f942ae2": "2026-11-04T08:06:47+00:00",
+"89333e9d887877f3": "2026-11-04T08:06:47+00:00",
+"d584eacae1e25c1d": "2026-11-04T08:06:47+00:00",
+"62f4519780dddbdd": "2026-11-04T08:06:47+00:00",
+"b0fb21217b67039c": "2026-11-04T08:06:47+00:00",
+"cad4cbe7cf326f22": "2026-11-04T08:06:47+00:00",
+"68ef256ea1a2e5ca": "2026-11-04T08:06:47+00:00",
+"1fc79e5cb9530a93": "2026-11-04T08:06:47+00:00",
+"ad43b67734806c31": "2026-11-04T08:06:47+00:00",
+"746a46a1cd9b4b6d": "2026-11-04T08:06:47+00:00",
+"feb5d1fd07a23a55": "2026-11-04T08:06:47+00:00",
+"cfecf78f0458b30a": "2026-11-04T08:06:47+00:00",
+"f0cacf1a52a6e3bd": "2026-11-04T08:06:47+00:00",
+"b314f2f8ae3d4925": "2026-11-04T08:06:47+00:00",
+"b9ba718125b13f7c": "2026-11-04T08:06:47+00:00",
+"7093ab86ee4b1f1d": "2026-11-04T08:06:47+00:00",
+"12af6bde5ef0015c": "2026-11-04T08:06:47+00:00",
+"c5315922beb931d7": "2026-11-04T08:06:47+00:00",
+"20f02aa1b58cdd08": "2026-11-04T08:06:47+00:00",
+"7885b78c514ba263": "2026-11-04T08:06:47+00:00",
+"4f6e4274d51eab07": "2026-11-04T08:06:47+00:00",
+"926b7bd9cc8a52c7": "2026-11-04T08:06:47+00:00",
+"b4b7488e535aa541": "2026-11-04T08:06:47+00:00",
+"d1987889d12c2f9e": "2026-11-04T08:06:47+00:00",
+"7709de5d597f5805": "2026-11-04T08:06:47+00:00",
+"52909f5510f2b021": "2026-11-04T08:06:47+00:00",
+"38f2934be72762dc": "2026-11-04T08:06:47+00:00",
+"a7c9d1418277fb6a": "2026-11-04T08:06:47+00:00",
+"0b1438fbd45f293b": "2026-11-04T08:06:47+00:00",
+"8f3e533f98dcbdb5": "2026-11-04T08:06:47+00:00",
+"2b4715d6aba91ce4": "2026-11-04T08:06:47+00:00",
+"e5c66510230af32e": "2026-11-04T08:06:47+00:00",
+"114fb40ab3eedcbc": "2026-11-04T08:06:47+00:00",
+"a6da7d074b035b8e": "2026-11-04T08:06:47+00:00",
+"6191a2ef4cdb5e2a": "2026-11-04T08:06:47+00:00",
+"c3ee1af8759cb4fb": "2026-11-04T08:06:47+00:00",
+"f56605b91ccdb47b": "2026-11-04T08:06:47+00:00",
+"1f766cdfada7ff6d": "2026-11-04T08:06:47+00:00",
+"8f38c051056349ac": "2026-11-04T08:06:47+00:00",
+"a5a1d905e76facff": "2026-11-04T08:06:47+00:00",
+"b41b3b87b4a51822": "2026-11-04T08:06:47+00:00",
+"af91e42aba70b4d7": "2026-11-04T08:06:47+00:00",
+"4a67b21bf4d97225": "2026-11-04T08:06:47+00:00",
+"e9332cdc682b5472": "2026-11-04T08:06:47+00:00",
+"9f4ed08267d84f1f": "2026-11-04T08:06:47+00:00",
+"c0582407e0b416ef": "2026-11-04T08:06:47+00:00",
+"d5f1be81f603b4b9": "2026-11-04T08:06:47+00:00",
+"965534f0cf683231": "2026-11-04T08:06:47+00:00",
+"07871b1c4cc8c0cb": "2026-11-04T08:06:47+00:00",
+"ad9874dae895eb87": "2026-11-04T08:06:47+00:00",
+"b7096e779eba7ba6": "2026-11-04T08:06:47+00:00",
+"beb1a16f7e164f31": "2026-11-04T08:06:47+00:00",
+"c56ee833c85d7878": "2026-11-04T08:06:47+00:00",
+"79c936dfe1b72a45": "2026-11-04T08:06:47+00:00",
+"51c59f9f3956ba60": "2026-11-04T08:06:47+00:00",
+"58ad2bc2bb907671": "2026-11-04T08:06:47+00:00",
+"27a9114afc94db05": "2026-11-04T08:06:47+00:00",
+"338ed11b71766e55": "2026-11-04T08:06:47+00:00",
+"9347b8afba61d730": "2026-11-04T08:06:47+00:00",
+"014368c63ed95ec3": "2026-11-04T08:06:47+00:00",
+"9c314efc99cfbf4c": "2026-11-04T08:06:47+00:00",
+"6ae9a26dcbb623c8": "2026-11-04T08:06:47+00:00",
+"90fc01351ed7e8bf": "2026-11-04T08:06:47+00:00",
+"6c60b1b0ec532800": "2026-11-04T08:06:47+00:00",
+"c2fcd8ce290345a9": "2026-11-04T08:06:47+00:00",
+"118fa909908b58d3": "2026-11-04T08:06:47+00:00",
+"2ecf7e3d64425b6d": "2026-11-04T08:06:47+00:00",
+"3450ff847b19a384": "2026-11-04T08:06:47+00:00",
+"9d36154dc5bfa978": "2026-11-04T08:06:47+00:00",
+"ecd7641e144254a2": "2026-11-04T08:06:47+00:00",
+"31ee1eb19c54e217": "2026-11-04T08:06:47+00:00",
+"a6103014dfc91c0b": "2026-11-04T08:06:47+00:00",
+"8210d1c57342a819": "2026-11-04T08:06:47+00:00",
+"27602e982881a684": "2026-11-04T08:06:47+00:00",
+"96d121720ec37f09": "2026-11-04T08:06:47+00:00",
+"fe118546eb686ab9": "2026-11-04T08:06:47+00:00",
+"b89e558a58f10e84": "2026-11-04T08:06:47+00:00",
+"5baa61caef2fbf3d": "2026-11-04T08:06:47+00:00",
+"84f6ee9b8e1e719e": "2026-11-04T08:06:47+00:00",
+"49cfb64bcbac6485": "2026-11-04T08:06:47+00:00",
+"2b2fa85c3f19d7a0": "2026-11-04T08:06:47+00:00",
+"909bab7ca225c76c": "2026-11-04T08:06:47+00:00",
+"3eaa9d029dd21b49": "2026-11-04T08:06:47+00:00",
+"cb6d8f6c03bb65d7": "2026-11-04T08:06:47+00:00",
+"2dcf3cb4572751a0": "2026-11-04T08:06:47+00:00",
+"020dbcc5c3ec375b": "2026-11-04T08:06:47+00:00",
+"4c87a048af49dc94": "2026-11-04T08:06:47+00:00",
+"cca40338dd97861b": "2026-11-04T08:06:47+00:00",
+"05a6c586ff93ca81": "2026-11-04T08:06:47+00:00",
+"1be0f6dee9ee5f99": "2026-11-04T08:06:47+00:00",
+"71a94dfcc7faa02f": "2026-11-04T08:06:47+00:00",
+"650bae3054329b8c": "2026-11-04T08:06:47+00:00",
+"ec7132b4d6ea5b48": "2026-11-04T08:06:47+00:00",
+"9d97e85fe3c17407": "2026-11-04T08:06:47+00:00",
+"7ae8f90c112c5bab": "2026-11-04T08:06:47+00:00",
+"df7741391189802b": "2026-11-04T08:06:47+00:00",
+"ceedaed95e49f3af": "2026-11-04T08:06:47+00:00",
+"dc32358f8acdedce": "2026-11-04T08:06:47+00:00",
+"837a32aef72a967f": "2026-11-04T08:06:47+00:00",
+"4f7f838a714001f1": "2026-11-04T08:06:47+00:00",
+"f779da160938f902": "2026-11-04T08:06:47+00:00",
+"215be270d91a076a": "2026-11-04T08:06:47+00:00",
+"e9dd69e5d567bcc1": "2026-11-04T08:06:47+00:00",
+"cc19935703f9a2a9": "2026-11-04T08:06:47+00:00",
+"4b332f0fd525c36a": "2026-11-04T08:06:47+00:00",
+"21d2142b1fd2de05": "2026-11-04T08:06:47+00:00",
+"fb2e3e94cecd7056": "2026-11-04T08:06:47+00:00",
+"9bd0298d00d34104": "2026-11-04T08:06:47+00:00",
+"423dae770cd10d11": "2026-11-04T08:06:47+00:00",
+"6315aee30cfb3e70": "2026-11-04T08:06:47+00:00",
+"235cb0bfa071eb95": "2026-11-04T08:06:47+00:00",
+"b645418c58bfcb74": "2026-11-04T08:06:47+00:00",
+"e31e362d1bb4c0c9": "2026-11-04T08:06:47+00:00",
+"a2f03aa02f939463": "2026-11-04T08:06:47+00:00",
+"bd18a69cb36ec363": "2026-11-04T08:06:47+00:00",
+"f34fcf45442f8bda": "2026-11-04T08:06:47+00:00",
+"a4b9be3141d940f0": "2026-11-04T08:06:47+00:00",
+"c23bddc5b3f22f96": "2026-11-04T08:06:47+00:00",
+"6f5b87c539f5df85": "2026-11-04T08:06:47+00:00",
+"413da9d48fe830eb": "2026-11-04T08:06:47+00:00",
+"ef3b6dee4aa5f0f6": "2026-11-04T08:06:47+00:00",
+"68688aeddbbfa9d4": "2026-11-04T08:06:47+00:00",
+"c04e3ffce9fb4a15": "2026-11-04T08:06:47+00:00",
+"c1b0c791be5833d4": "2026-11-04T08:06:47+00:00",
+"0fe5624bc9484a1f": "2026-11-04T08:06:47+00:00",
+"653bc8b948534ed1": "2026-11-04T08:06:47+00:00",
+"2b9a82ddb1959e7f": "2026-11-04T08:06:47+00:00",
+"6a95ef73bbb35db6": "2026-11-04T08:06:47+00:00",
+"236eef0b36dd3fb8": "2026-11-04T08:06:47+00:00",
+"8ccadb21c1bac05d": "2026-11-04T08:06:47+00:00",
+"41e5e93c752e98cd": "2026-11-04T08:06:47+00:00",
+"58ead4892feeb490": "2026-11-04T08:06:47+00:00",
+"59071aca0b6054a3": "2026-11-04T08:06:47+00:00",
+"10088ee52105bc4a": "2026-11-04T08:06:47+00:00",
+"609c4ca7a58ea08d": "2026-11-04T08:06:47+00:00",
+"07cf58e68b3add00": "2026-11-04T08:06:47+00:00",
+"6798e7139fa523af": "2026-11-04T08:06:47+00:00",
+"2887abdc983787a5": "2026-11-04T08:06:47+00:00",
+"b22171eafc510898": "2026-11-04T08:06:47+00:00",
+"6fe7a6e9830310f5": "2026-11-04T08:06:47+00:00",
+"826c4e9865dffc84": "2026-11-04T08:06:47+00:00",
+"1006376ea34384ea": "2026-11-04T08:06:47+00:00",
+"fb49e1ab1ec217e5": "2026-11-04T08:06:47+00:00",
+"f541c8dceb9bc6e1": "2026-11-04T08:06:47+00:00",
+"e7fc673f76684f7b": "2026-11-04T08:06:47+00:00",
+"cb2573f6b754d92d": "2026-11-04T08:06:47+00:00",
+"b637f3971de639e1": "2026-11-04T08:06:47+00:00",
+"e4d4ca638be51613": "2026-11-04T08:06:47+00:00",
+"fb61a25c4db88300": "2026-11-04T08:06:47+00:00",
+"5e610e63e359ba52": "2026-11-04T08:06:47+00:00",
+"c003eb55b7873ed2": "2026-11-04T08:06:47+00:00",
+"015460cdc3a643da": "2026-11-04T08:06:47+00:00",
+"b8dce3031a212935": "2026-11-04T08:06:47+00:00",
+"0ea47afc5520f07e": "2026-11-04T08:06:47+00:00",
+"a1bc3138c57a91e7": "2026-11-04T08:06:47+00:00",
+"6527bdca428a704f": "2026-11-04T08:06:47+00:00",
+"965b72c9e802aed1": "2026-11-04T08:06:47+00:00",
+"0c2c5d20e03bcb1c": "2026-11-04T08:06:47+00:00",
+"a2dd6f33e20138e2": "2026-11-04T08:06:47+00:00",
+"72971e6785aa0b5a": "2026-11-04T08:06:47+00:00",
+"27c7a673c1692e8e": "2026-11-04T08:06:47+00:00",
+"de38d548a7c656b0": "2026-11-04T08:06:47+00:00",
+"8f3bc46ee8bebd6e": "2026-11-04T08:06:47+00:00",
+"d33156e12a2e7320": "2026-11-04T08:06:47+00:00",
+"ef607efaff76de84": "2026-11-04T08:06:47+00:00",
+"4d3293b70e25a3f7": "2026-11-04T08:06:47+00:00",
+"3277e2d99b0aa60e": "2026-11-04T08:06:47+00:00",
+"0eed967430cfecb2": "2026-11-04T08:06:47+00:00",
+"f35efa0f08587302": "2026-11-04T08:06:47+00:00",
+"662e857d61494c8c": "2026-11-04T08:06:47+00:00",
+"0243af199ac6c0a8": "2026-11-04T08:06:47+00:00",
+"d4500af2e6ec6a41": "2026-11-04T08:06:47+00:00",
+"e9e8bc437c4a5cd3": "2026-11-04T08:06:47+00:00",
+"17d4d86ef34f63c1": "2026-11-04T08:06:47+00:00",
+"c8975c7ba669e10f": "2026-11-04T08:06:47+00:00",
+"50976fc2823be844": "2026-11-04T08:06:47+00:00",
+"92f6a70a2069ef98": "2026-11-04T08:06:47+00:00",
+"569d8c151163bce6": "2026-11-04T08:06:47+00:00",
+"18e52476e88683ac": "2026-11-04T08:06:47+00:00",
+"59d6b8563eaf886d": "2026-11-04T08:06:47+00:00",
+"64a950f350f53711": "2026-11-04T08:06:47+00:00",
+"c1e76289abb8aa35": "2026-11-04T08:06:47+00:00",
+"9b924868dbd2962c": "2026-11-04T08:06:47+00:00",
+"e027b18a1be0498f": "2026-11-04T08:06:47+00:00",
+"65ca01e136c53ef3": "2026-11-04T08:06:47+00:00",
+"8c7bdc84fbc05eba": "2026-11-04T08:06:47+00:00",
+"ba3bad4f2de14859": "2026-11-04T08:06:47+00:00",
+"c7df507bda9967e6": "2026-11-04T08:06:47+00:00",
+"35b015c048a73f24": "2026-11-04T08:06:47+00:00",
+"726f5e5df35d7f09": "2026-11-04T08:06:47+00:00",
+"b518dd01f5259f74": "2026-11-04T08:06:47+00:00",
+"7968dccc1732885f": "2026-11-04T08:06:47+00:00",
+"45f468b6c43d02c4": "2026-11-04T08:06:47+00:00",
+"9553de972b70f93b": "2026-11-04T08:06:47+00:00",
+"dfbf4a36e892713e": "2026-11-04T08:06:47+00:00",
+"1e37deec180f127e": "2026-11-04T08:06:47+00:00",
+"46ebdd0c8308ebb6": "2026-11-04T08:06:47+00:00"
 },
 "salud": {
 "gnews:Santander -\"Banco Santander\" -Botín -Colombia -Bucaramanga": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:Cantabria": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(concentración OR manifestación OR protesta OR huelga OR convocatoria) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(incendio OR accidente OR corte OR cortada OR evacuación OR temporal) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(elecciones OR mitin OR candidato OR candidata OR encuesta) Cantabria": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:site:elfaradio.com": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:site:eldiariomontanes.es": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:site:ifomo.es": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:\"huelga general\"": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:\"elecciones generales\" (\"29 de noviembre\" OR 29N)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:huelga (Renfe OR Adif OR ALSA OR transportistas OR \"controladores aéreos\" OR Aena)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:(aviso OR alerta) AEMET (Cantábrico OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "rss:https://www.elfaradio.com/feed/": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gdelt:(Santander OR Cantabria) sourcelang:spanish": {
-"fallos": 3,
+"fallos": 4,
 "ultimo_ok": "2026-11-03T07:59:45+00:00",
 "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28Santander+OR+Cantabria%29+sourcelang%3Aspanish&mode=artlist&format=json&maxrecords=75&times"
 },
 "reddit:cantabria": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "mastodon:mastodon.social/santander": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "mastodon:mastodon.social/cantabria": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(CCOO OR UGT OR \"Comisiones Obreras\" OR CGT OR CNT OR CSIF) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(\"extrema derecha\" OR ultraderecha OR neonazi OR falange OR \"extrema izquierda\" OR antifascista OR antifa) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(Vox OR PRC OR \"Partido Regionalista\" OR PSOE OR \"Partido Popular\" OR Podemos OR Sumar OR \"Izquierda Unida\") Cantabria (mitin OR acto OR campaña OR concentración)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(disturbios OR altercados OR \"cargas policiales\" OR enfrentamientos) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:(CCOO OR UGT) (huelga OR movilización OR manifestación OR \"huelga general\")": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(ETA OR \"kale borroka\" OR borroka OR abertzale OR \"ongi etorri\" OR \"enaltecimiento del terrorismo\") (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:(\"kale borroka\" OR borroka OR sabotaje OR \"ongi etorri\" OR \"cócteles molotov\" OR \"enaltecimiento del terrorismo\") (Euskadi OR \"País Vasco\" OR Bilbao OR Donostia OR \"San Sebastián\" OR Vitoria OR Navarra OR Pamplona)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:(ETA OR \"presos de ETA\") (homenaje OR \"ongi etorri\" OR atentado OR aniversario OR víctimas)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews:(Francia OR francesa OR franceses OR \"chalecos amarillos\") (concentración OR convocatoria OR solidaridad OR manifestación OR protesta) (Santander OR Cantabria)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 },
 "gnews-nac:(solidaridad OR concentración OR convocatoria OR manifestación) (Francia OR \"estudiantes franceses\" OR \"juventud francesa\" OR \"chalecos amarillos\") (Madrid OR Barcelona OR Bilbao OR Oviedo OR Gijón OR Valladolid OR Zaragoza OR Valencia OR Sevilla OR España)": {
 "fallos": 0,
-"ultimo_ok": "2026-11-04T01:42:09+00:00"
+"ultimo_ok": "2026-11-04T08:06:47+00:00"
 }
 },
 "titulos": [
-[
-[
-"alcoho",
-"beber",
-"calle",
-"denunc",
-"formul"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"balon",
-"explic",
-"juega",
-"luz",
-"penalt",
-"sale",
-"tchoua",
-"var",
-"volunt"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"aprueb",
-"asi",
-"cubrir",
-"empleo",
-"plazas",
-"public",
-"tus",
-"vacant"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"estren",
-"famili",
-"femini",
-"girls",
-"obra",
-"power",
-"torrel"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"baja",
-"espera",
-"lista",
-"quirur"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"digita",
-"ley",
-"pide",
-"plataf",
-"salud",
-"tumbar"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"goleo",
-"laliga",
-"lidere",
-"madrid",
-"pierde",
-"pisada",
-"racing",
-"real"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"000",
-"164",
-"ayudas",
-"cine",
-"euros",
-"salas"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2026",
-"ganado",
-"once",
-"premio",
-"solida",
-"todos"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"camarg",
-"hallow",
-"pasaje",
-"recupe",
-"terror",
-"zombis"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"artifi",
-"camara",
-"empres",
-"formar",
-"inteli",
-"torrel"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"chile",
-"design",
-"direct",
-"genera",
-"magri",
-"marcel",
-"seguro",
-"zurich"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"bajan",
-"delito",
-"potes",
-"septie"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"enmien",
-"noviem",
-"presup"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"burgas",
-"civica",
-"colabo",
-"europe",
-"juveni",
-"proyec",
-"suance"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"acuerd",
-"aproba",
-"pide",
-"presup"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2027",
-"piden",
-"salmon",
-"tempor",
-"veda"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"236",
-"cierra",
-"edicio",
-"partic",
-"primer",
-"slow",
-"torrel"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"350",
-"cerca",
-"feria",
-"potes",
-"reses",
-"reune",
-"santos",
-"todos"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"arena",
-"cerrar",
-"gira",
-"gondwa",
-"neira",
-"quique",
-"reunio"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"genero",
-"minuto",
-"silenc",
-"ultima",
-"victim",
-"violen"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"315",
-"camarg",
-"electo",
-"integr",
-"mesas",
-"sortea"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2027",
-"aument",
-"educac",
-"presup"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"aemet",
-"anunci",
-"cambio",
-"doming",
-"lluvia",
-"mejori",
-"pasa",
-"semana",
-"sol",
-"tiempo"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"acerca",
-"histor",
-"iguna",
-"partic",
-"pueblo",
-"replic",
-"taller",
-"univer",
-"valle"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"164",
-"2026",
-"434",
-"ano",
-"cinema",
-"destin",
-"euros",
-"exhibi",
-"gobier",
-"salas",
-"subven",
-"titula"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"cantam",
-"castil",
-"fronte",
-"llegar",
-"mancha",
-"musica",
-"salta",
-"vallis"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"asambl",
-"convoc",
-"delega",
-"genera",
-"huelga",
-"inform",
-"ugt"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"charla",
-"defens",
-"diegu",
-"educac",
-"gabrie",
-"lopez",
-"lucha",
-"public",
-"san"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"ayudas",
-"cinema",
-"convoc",
-"exhibi",
-"gobier",
-"salas"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"borrad",
-"diciem",
-"gobier",
-"integr",
-"juvent",
-"plan",
-"presen"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"agenda",
-"inform",
-"martes",
-"noviem",
-"partid",
-"popula"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"media",
-"nacion",
-"octubr",
-"tripli",
-"turism",
-"ventas"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"alumno",
-"cuarta",
-"docent",
-"educac",
-"lleva",
-"menos",
-"millon",
-"parte",
-"person",
-"presup"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"000",
-"edicio",
-"feria",
-"mayore",
-"partic",
-"person",
-"tercer"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"branos",
-"edicio",
-"envisa",
-"ganado",
-"mbr",
-"mecani",
-"sexta",
-"talent"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"autori",
-"conced",
-"dos",
-"eolico",
-"gobier",
-"molino",
-"parque",
-"previa",
-"valdeo"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"ley",
-"propue",
-"proyec",
-"rechaz",
-"retira",
-"vivien",
-"vox"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"casi",
-"coches",
-"crecen",
-"media",
-"nacion",
-"octubr",
-"triple",
-"ventas"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"camara",
-"campan",
-"comerc",
-"conoce",
-"detras",
-"histor",
-"inicia"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2026",
-"25h",
-"cope",
-"deport",
-"nov"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"borrad",
-"diciem",
-"ejecut",
-"integr",
-"juvent",
-"llevar",
-"parlam",
-"plan",
-"primer"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2026",
-"48h",
-"cope",
-"mediod",
-"nov"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"altura",
-"cantab",
-"estar",
-"llama",
-"oposic",
-"presup",
-"servic"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2027",
-"acusa",
-"adhesi",
-"aproba",
-"buruag",
-"exigir",
-"fernan",
-"gobern",
-"paula",
-"presup",
-"soberb",
-"viana"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"fundac",
-"grupo",
-"marque",
-"once",
-"premio",
-"santan",
-"social",
-"solida",
-"textil",
-"valdec"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"circui",
-"euskad",
-"film",
-"itiner",
-"locali",
-"mendi",
-"noviem",
-"nueve",
-"pelicu",
-"recorr"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"cultur",
-"diciem",
-"edicio",
-"evento",
-"grande",
-"inclui",
-"joven",
-"noche",
-"nueva"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"campo",
-"declar",
-"obras",
-"pleno",
-"priori",
-"racing"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2026",
-"radioe"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"apremi",
-"desblo",
-"enmien",
-"ley",
-"negoci",
-"prc",
-"vivien"
-],
-"2026-11-02T18:41:13+00:00"
-],
-[
-[
-"2026",
-"mediod",
-"notici"
-],
-"2026-11-02T18:41:13+00:00"
-],
 [
 [
 "2027",
@@ -25885,365 +25331,716 @@
 "ugt"
 ],
 "2026-11-04T01:42:09+00:00"
+],
+[
+[
+"2026",
+"actuar",
+"awards",
+"bola",
+"fenome",
+"guitar",
+"los40",
+"music",
+"negra",
+"pleno"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"barcel",
+"laliga",
+"paliza",
+"racing",
+"receta"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"bolson",
+"brasil",
+"carlos",
+"farsa",
+"traged",
+"ugo"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"arena",
+"fotos",
+"taemin"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"2026",
+"matina",
+"notici"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"berang",
+"casas",
+"feve",
+"pisos"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"hoy",
+"tiempo",
+"torrel"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"2026",
+"autoed",
+"bulliy",
+"evento",
+"festiv",
+"fundac",
+"once",
+"premio",
+"tandem",
+"tolera"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"antes",
+"carta",
+"cielo",
+"encabe",
+"escrit",
+"fusila",
+"inedit",
+"martir",
+"preocu",
+"sacerd",
+"unico"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"accide",
+"camion",
+"dos",
+"hija",
+"madre",
+"motos",
+"murier",
+"padre"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"escena",
+"esceni",
+"intens",
+"lleva",
+"munici",
+"noviem",
+"progra"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"asi",
+"barqui",
+"manuel",
+"parque",
+"torrel"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"compra",
+"cubier",
+"cultur",
+"deport",
+"evento",
+"gradas",
+"licita",
+"portat",
+"torrel"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"avisar",
+"cuanto",
+"descue",
+"empres",
+"genera",
+"habra",
+"huelga",
+"minimo",
+"nomina",
+"noviem",
+"servic"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"desbor",
+"genera",
+"gustar",
+"huelga",
+"pedro",
+"sanche"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"amplio",
+"genera",
+"huelga",
+"preve",
+"seguim",
+"ugt",
+"vigo"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"contra",
+"dice",
+"genera",
+"huelga",
+"todos"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"11n",
+"debe",
+"disput",
+"genera",
+"gobier",
+"huelga",
+"pactis",
+"patron",
+"senala",
+"sindic"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"campan",
+"electo",
+"huelga",
+"montse",
+"psoe",
+"sanche"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"agrari",
+"fruga",
+"galleg",
+"genera",
+"huelga",
+"llama",
+"noviem",
+"sector",
+"sumars"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"apoyan",
+"genera",
+"huelga",
+"ibiza",
+"noviem",
+"social"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"amplia",
+"base",
+"comuni",
+"confli",
+"desbor",
+"escala",
+"huelga",
+"multip"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"abogad",
+"avisar",
+"calzad",
+"despid",
+"genera",
+"huelga",
+"ignaci",
+"labora",
+"nomina",
+"nulo",
+"pagas",
+"parte",
+"pueden",
+"restar",
+"seria",
+"tienes",
+"vacaci",
+"vas"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"afea",
+"cercan",
+"colau",
+"defien",
+"genera",
+"haber",
+"huelga",
+"inmobi",
+"lobbie",
+"psoe",
+"sido",
+"vivien"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"divisi",
+"genera",
+"huelga",
+"idonei",
+"sindic",
+"subray"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"analiz",
+"aureli",
+"callej",
+"claves",
+"entrev",
+"eva",
+"fernan",
+"genera",
+"huelga",
+"inform"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"11n",
+"baix",
+"convoc",
+"crisis",
+"foro",
+"genera",
+"huelga",
+"labora",
+"llobre",
+"precar",
+"social",
+"vivien"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"ccoo",
+"clase",
+"defien",
+"organi",
+"polici",
+"sindiq",
+"ugt"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"apela",
+"derech",
+"feijoo",
+"fundam",
+"huelga",
+"irene",
+"masiva",
+"monter",
+"movili",
+"replic"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"antici",
+"ayudas",
+"ccoo",
+"chocan",
+"dialog",
+"feijoo",
+"gobier",
+"juego",
+"millon",
+"ruptur",
+"social",
+"ugt"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"11n",
+"ccoo",
+"genera",
+"huelga",
+"lloret",
+"movili",
+"organi",
+"prepar",
+"reune",
+"vecino"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"abre",
+"dimisi",
+"enluta",
+"espana",
+"huelga",
+"paso",
+"puente"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"genera",
+"huelga",
+"noviem"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"acampa",
+"desalo",
+"evitar",
+"genera",
+"huelga",
+"pide",
+"refuer",
+"resist",
+"sevill"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"apoyo",
+"defens",
+"derech",
+"genera",
+"huelga",
+"labora",
+"mocion",
+"presen",
+"salobr",
+"vivien"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"cuando",
+"elecci",
+"electo",
+"fechas",
+"formar",
+"mesa",
+"parte",
+"plazos",
+"reclam",
+"sabe",
+"toca"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"29n",
+"amplia",
+"comuni",
+"dos",
+"electo",
+"encues",
+"frente",
+"izquie",
+"mayori",
+"nuevos",
+"sondeo",
+"valenc",
+"vox"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"29n",
+"elecci",
+"electo",
+"elegid",
+"has",
+"mesa",
+"saber",
+"sido"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"29n",
+"causas",
+"elecci",
+"electo",
+"genera",
+"libran",
+"mesa",
+"presen",
+"saber",
+"tocado",
+"valenc"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"aqui",
+"colegi",
+"consul",
+"elecci",
+"electo",
+"genera",
+"palma",
+"puedes",
+"tocado"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"29n",
+"candid",
+"castel",
+"defini"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"29n",
+"congre",
+"cordob",
+"elecci",
+"listas",
+"quien",
+"senado"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"coruna",
+"estaci",
+"interm",
+"jueves",
+"noviem",
+"nueva",
+"obras",
+"quedar",
+"trenes"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"alza",
+"costos",
+"nuevo",
+"paro",
+"protes",
+"transp"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"100",
+"activa",
+"aemet",
+"alerta",
+"almeri",
+"horas",
+"intens",
+"litros",
+"lluvia",
+"murcia",
+"naranj",
+"tormen",
+"valenc"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"ccoo",
+"demand",
+"expone",
+"huelga",
+"malaga",
+"noviem",
+"ugt"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"acuerd",
+"asisti",
+"ccoo",
+"comite",
+"consej",
+"eludie",
+"huelga",
+"mesas",
+"mientr",
+"negoci",
+"sector",
+"siga",
+"unanim"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"abasca",
+"cancel",
+"ccoo",
+"huelga",
+"pide",
+"porque",
+"sentid",
+"tiene",
+"ugt"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"borra",
+"calle",
+"csif",
+"entrar",
+"hemos",
+"huelga",
+"juego",
+"miguel",
+"mucho",
+"nuestr",
+"otros",
+"politi",
+"salido",
+"sindic",
+"vamos"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"centro",
+"ciudad",
+"docent",
+"educac",
+"huelga",
+"manife",
+"planta",
+"public",
+"salama"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"anduja",
+"cartel",
+"ccoo",
+"genera",
+"huelga",
+"inicia",
+"noviem",
+"pegada",
+"ugt"
+],
+"2026-11-04T08:06:47+00:00"
+],
+[
+[
+"capita",
+"civil",
+"coment",
+"encuen",
+"espano",
+"estuvo",
+"guardi",
+"link",
+"maniza",
+"notici",
+"primer",
+"visita"
+],
+"2026-11-04T08:06:47+00:00"
 ]
 ],
-"ultimo_item": "2026-11-04T01:42:09+00:00",
-"ultimo_resumen": "2026-11-03T21:43:23+00:00",
-"pendientes": [
-{
-"titulo": "World faces €30 trillion financing gap, Santander report warns",
-"url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnZLRlJGdllndVdBN0h4LW1Hb1VhbGVJdkYyT0dPOV9lMVlUbzE2Zkt4NkpVVHJoNzB3WlRlVmRYb0M5cFNaZE9aclNJc0JVRnh3RnJ2dnFHenQ0N2lXRVRpOURkdlNvTHZlcnNRWk14dElzVVc5WWJxTlQ0RHdnVEpweTA4a2pRM19qQThFaGkwZmlKUGlrSFZSYmQ1Y05wRGt5NUZYR1NWMXVJRFVsT0VvZDlPUW0tOHQ4c3VYRGpqQXlfNDlwVQ?oc=5",
-"fuente": "TradingView",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "David Kirschner presentará por primera vez en concierto “La Guitarra que Canta” en el Conjunto Santander",
-"url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CU0stUXFtdGdvVkR6Z1FhdG1HdTFqSHRnWG9lVG1PQll5eTQ0YTJGOGFHbFlXRTJEOFZHcm1xNVZTSUI1U1V4VTNZaVVUZ3NZTWRLZUFqc01nRGdzVlBLOEJsTkRZTm9pN3RMWHczenpQQWhWV3pPU3FrWGNTRU0?oc=5",
-"fuente": "UDG TV",
-"temas": [
-"eventos"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Mahler y su Sinfonía Titán llegan al Conjunto Santander bajo la dirección de Scott Yoo",
-"url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDdmX2M4TFV0VGE3ZHRiU3B2R0t0MWNRd2pBcG53V29KOTB1TUdOTFAwOU9YV0puVFFvWEZHeEtPb3JoeTZic3RCQWVFMENOQmJjX2RyNVhNNm1TbkRNUlBrS3BoSzJMQy1KVlNHYW5xVGM2cW1jdkZzdlUxMG50MzZlaFRJSkdNRHhnSGtKTFNvaUk?oc=5",
-"fuente": "UDG TV",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Cuenca del Cantábrico Occidental al 50,5% de capacidad",
-"url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdy1OcmpYTjFodWxWLTNWSTdOcVRQYVFfMTZncXhPT2o2MC1mTzhOUFZLTWtnVGx1QzFTWDlUemZxMnRrZ1NQd3NZcWlObmlOdXFYMkVGZy1LaFFDQVQ0bDJVeUd2RHJrdXZzMnpjTm83T21qeFpfUUVNbHlfUE56TFNWcUo0UjJtMzdOZUN5NjJvWURjaDM1dVlZQzJJWFhFZ0d6MzNwdmpuMGszVUgxTWhGenRnY2Y4Y1Nz0gG7AUFVX3lxTE53LU5yalhOMWh1bFYtM1ZJN05xVFBhUV8xNmdxeE9PajYwLWZPOE5QVktNa2dUbHVDMVNYOVR6ZnEydGtnU1B3c1lxaU5uaU51cVgyRUZnLUtoUUNBVDRsMlV5R3ZEcmt1dnMyemNObzdPbWp4Wl9RRU1seV9QTnpMU1ZxSjRSMm0zN05lQ3k2Mm9ZRGNoMzV1WVlDMklYWEVnR3ozM3B2am4wazNVSDFNaEZ6dGdjZjhjU3M?oc=5",
-"fuente": "Ifomo Noticias 24h",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Emilia llega a LOS40 Music Awards Santander 2026 para presentar en directo su nuevo single 'Bodypainting'",
-"url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV1FMVVRPNDRselV4Nl9EbGtBTXhkb2g0UjEyaEwzYV9JQlhKMFRKWUhLVHNJZlZUdkJkZThITF9qMk9LZDFZWUlkYWVHc3czZl9od2FaX1VsRmc3T2lGSGc0NDUzRzM1VVc1anlTOWVTekVfUzNpVHcwcG84RC1jZ0gtRlNvXzY0Sl9RVEVFUjhJSDNpTWlQUHMya283OWJ5cFdyWU1lUGxFT2RPb0hhN1FtU0RDLThYbXBVaFhkb1plNWF5R0ZFUEh0UzZvYlJhaVRTZThwdkpFVkFDMDVoajlBVVdfQdIB5gFBVV95cUxPV1FMVVRPNDRselV4Nl9EbGtBTXhkb2g0UjEyaEwzYV9JQlhKMFRKWUhLVHNJZlZUdkJkZThITF9qMk9LZDFZWUlkYWVHc3czZl9od2FaX1VsRmc3T2lGSGc0NDUzRzM1VVc1anlTOWVTekVfUzNpVHcwcG84RC1jZ0gtRlNvXzY0Sl9RVEVFUjhJSDNpTWlQUHMya283OWJ5cFdyWU1lUGxFT2RPb0hhN1FtU0RDLThYbXBVaFhkb1plNWF5R0ZFUEh0UzZvYlJhaVRTZThwdkpFVkFDMDVoajlBVVdfQQ?oc=5",
-"fuente": "LOS40 Argentina",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "El PP investiga la presunta \"bofetada\" de uno de sus concejales a Pedro Casares, delegado del Gobierno en Cantabria",
-"url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2dUSXZ6WWtIUnJBUFRyaXRpc2ZtWnRsZFF3b3FtdWd4UU1NLXhNU3ViNEo1SkN6ODFvLXhYQnJtX1VrSWFnYjl2VDBMLTZmSExRdXdXRFl2enBqcHlHZmVXZ3J1U19HN1RDc2U3OFM3QXJGU0VVdFg0ZDkzYXFCS3B0TUNTZm1lLTYtRE12SGkxZmxUY3d3dWhTQ21zUDdqazVOU3RaR1lvY3NTTmlHay1oeldQSi15alFVNVJTU21SaHl2bjJ6WEtoV2RJWjBZQWZkbHNKbjV0V0hJdEE2X3NKOXlIU2c?oc=5",
-"fuente": "Telecinco",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Circuito Escena llega a Laredo, Ramales, San Vicente, Piélagos, Cartes, Meruelo, Torrelavega, Astillero, Orejo, Castro, Santoña, Reinosa, Cabezón y Corrales - CANTABRIA DIRECTA",
-"url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3hhNVdaQy1yc2NiakVud0VMSndxbmRtZzdIU01JRHFjYThoMnVhOUswR3o5RUpiSE9NUEhwWXRkSkxsd1lMWVlpT0NONGlGUjRDd3lVamRKcEQ1Mmo3cV8yNjhheHBSZmVveWpfQjVBeGFjSWMtdUF5UmFQeVQ0VlVkM2x1VGFuZ3lTbGowNy1vTVBGN2JVVVBR?oc=5",
-"fuente": "cantabria directa",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Por qué AXA devuelve casi 620 millones al Santander: la cláusula solo cubre desde diciembre de 2000",
-"url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDFuTldidXU0X1FjbkJSN1Y2V0YxTDkzSGtnOUhSMDI4aFJ0anVCRURrN0hrc3BUTFV5R3NqV1VmNWU2RU03RVgyLUROSkJkVmx5Y0wxOTVETW9neC0xYURoTVdoQ0YxR3c5RzZfZmRxUXVJNjVWN3RMZFh1Sk9SeW9meFdLcnBYcUk2SWljeWlxQ2ZqcTN6WGhqYUlwNWN4YlNVSWZVRzhQZnpMaE5Z?oc=5",
-"fuente": "roams.es",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Violento choque contra un poste acabó con la vida de Saúl Enrique Bravo Suárez en Santander",
-"url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHNiSmpWbTVBUjlLSFpCN0hKRGtpbmhEWmI0SDZrd25Da0EydmxRbnBXbWdjMmVCVDBGcGpHZ0dKUkl1UlNHWUQtMjFxaGlJcnlvRXNmZmlCZGpiQllpWS1OZXFvUXJmVFRFZW11bTUxQllEcjBLY0tnMzNMNWk3V3Y3TjlVdmNWS1ZSYV9YSThVaU5WaEM4YWY3cDJRWU12NzYwZnR6ZEVTcXVEOFdaZEE4WGk3MFU?oc=5",
-"fuente": "El Frente",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Cayó alias 'Matamba' en Santander: es miembro del Clan del Golfo y se dedicaba al hurto de hidrocarburos; este es su perfil criminal",
-"url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQnBVTnVyRTI2RnJNeC1iNWUtdHplYi1vMHNMZ0xhNk5vYUNJWUQ0dnFfMV9KaUpqdnFDSDdZNUNJY1Q3VGJGOUFhWm9HVFRVOXh5VmVDV3kxTVlROHZmWUw5WEFFY3R4czF2bDBQU2xJYml6M29JaHVOUmJmamd2UlViejU4MFExM2NlQ1NnblZPejdwNW4tOUx4MVc3MVM0VFFxcjY0WThfeUtkN0NJM2cwRUxJVTctRGpLaGZGRVdVNnRaX2ZFbFlaeFFBeGw0dkdzc3VsZGxVUldReU1pdmdTWGNzUFFVTXl0QzRUOWFRRkd3U1ZoTUxtSmMwNzEwOVFMT1p2TnZKWTB0MjlqZ2tn0gGSAkFVX3lxTE1CcFVOdXJFMjZGck14LWI1ZS10emViLW8wc0xnTGE2Tm9hQ0lZRDR2cV8xX0ppSmp2cUNIN1k1Q0ljVDdUYkY5QWFab0dUVFU5eHlWZUNXeTFNWVE4dmZZTDlYQUVjdHhzMXZsMFBTbEliaXozb0lodU5SYmZqZ3ZSVWJ6NTgwUTEzY2VDU2duVk96N3A1bi05THgxVzcxUzRUUXFyNjRZOF95S2Q3Q0kzZzBFTElVNy1EaktoZkZFV1U2dFpfZkVsWVp4UUF4bDR2R3NzdWxkbFVSV1F5TWl2Z1NYY3NQUVVNeXRDNFQ5YVFGR3dTVmhNTG1KYzA3MTA5UUxPWnZOdkpZMHQyOWpna2c?oc=5",
-"fuente": "El Tiempo",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "El edil del PP dice que es falso que agrediese al delegado del Gobierno en Cantabria",
-"url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQekVYQ1RFeDR3UFpNdXgyRnlkR212WWd1eVE2M2ZfQVB3dkpGUFlOaTY3azljbFQzQ1V1V3RTX2ROYU9ZNWppd2RpQXRMUkZZVk0yMDEzcFI3YUJwMTBVakl0amxUQU9OdXJzNllJRFNVVTRUOTJkQTFnQTEyWEpYbmxHcE5PTS1EeGlQbUZnU3pJVmlrNGRET3ZLM0E3UktWMVpXSENxUGdtem5HUTRpQ1BkeDhrZzNTZU52VndFblZpalh6NmlFUVJSeTNYaFJvcVBHWmt3a3BubF9RVXJmaG1tU0N1RGtQT1BqUtIB7AFBVV95cUxQekVYQ1RFeDR3UFpNdXgyRnlkR212WWd1eVE2M2ZfQVB3dkpGUFlOaTY3azljbFQzQ1V1V3RTX2ROYU9ZNWppd2RpQXRMUkZZVk0yMDEzcFI3YUJwMTBVakl0amxUQU9OdXJzNllJRFNVVTRUOTJkQTFnQTEyWEpYbmxHcE5PTS1EeGlQbUZnU3pJVmlrNGRET3ZLM0E3UktWMVpXSENxUGdtem5HUTRpQ1BkeDhrZzNTZU52VndFblZpalh6NmlFUVJSeTNYaFJvcVBHWmt3a3BubF9RVXJmaG1tU0N1RGtQT1BqUg?oc=5",
-"fuente": "Infobae",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "El PP investiga la presunta agresión de uno de sus concejales al delegado en Cantabria",
-"url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdFgtSWk1NUtfNWhjU1ZWczdmbWJycTRUQlROOTRyUW5fbUZIMFU5dUlNWFZLQmtmbW5kcVZ2akgyZGItOG9IdEVrWGNNdHdhYVBsTE5xNlhhZnoyY05XVTQwMlktZ2MwOFBMQjRoZDFHSU9oOGpYVkNVbTJ1SGJxbGRpeDZFNDE1Uy1VRTRGZUtUcXpSU1pYbDN1dXJnaXE5TUhHYzNzbktwR0dyUnlfc200NzZxaHYzUUF4TjNreXRhSGV1RmVHSmxkaXJXdHlGZTFIZjVWeUdIblZvcndEcDA2UE9qT25pZ0lIZTJhb9IB7wFBVV95cUxQdFgtSWk1NUtfNWhjU1ZWczdmbWJycTRUQlROOTRyUW5fbUZIMFU5dUlNWFZLQmtmbW5kcVZ2akgyZGItOG9IdEVrWGNNdHdhYVBsTE5xNlhhZnoyY05XVTQwMlktZ2MwOFBMQjRoZDFHSU9oOGpYVkNVbTJ1SGJxbGRpeDZFNDE1Uy1VRTRGZUtUcXpSU1pYbDN1dXJnaXE5TUhHYzNzbktwR0dyUnlfc200NzZxaHYzUUF4TjNreXRhSGV1RmVHSmxkaXJXdHlGZTFIZjVWeUdIblZvcndEcDA2UE9qT25pZ0lIZTJhbw?oc=5",
-"fuente": "Infobae",
-"temas": [
-"politica",
-"sucesos"
-],
-"prioridad": "media",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Cayó alias Matamba en Santander: integrante del Clan del Golfo robaba hidrocarburos",
-"url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVllOUWF0MXpGenNYU3JoNGlod3BZMy12WC1HbUZ1MFF2MlB0YjRWWHBicl9QSVZlNkRWc3Y3b2dpeHVDT1FnUDBuY2dhelFYSVRDdGl6UzhGOFdDTGREcEZwb3UyTUpvWG96aXd2SlA3MkFMc1lhUDNkeGM0R3doVjJCUXNMLTZtTDZ0VHY4TzUxY2otUkw1T2NZRkQxMWdaRk95OFhnZDhmMl8yaDVtc1piTENrTTBuRHF0bA?oc=5",
-"fuente": "Diario del Cauca",
-"temas": [
-"otros"
-],
-"prioridad": "baja",
-"ambito": "local",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Feijóo envía un aviso a los sindicatos ante la huelga general: «Mal empezamos»",
-"url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHNfZWF6R24tMGtnbjlyUUkwS2wxX1pubmJGcExvNUtoTUN1U0lmejE4NEtTY2tjcHZ5SHA5S2E4YVFraUtTLTA3anc3UjJyMXhHM0drWnMzNVNWNU1fRWNUV0hHaGUtXzJ5Wk5zTHBIajhYM29sLU9ZU0dBVWtJTlFVRTB3M1ozRGh1QjZYbXFZLUQtM2huRjlSbkJ6LXPSAaQBQVVfeXFMUGZ2SE5nbnZiNVRDX1BTM1RjaF9wWmtwNkVHZlU2MzdRWG05M09malVuU2xiM1Q3M3FpUXV4RXZDQ3NmclVOV2RiZ2ZselZIcWJ1Z1hMN2U0UmFjbXZGcVBNaDROd1NpRW5MLTU3Q0NEcFdhM2hoOGFiSlNwRm5zZmstQzNjZEtwUVREamk2cUwxRVZ1aGpINTVLS09YVEg5QklZWFU?oc=5",
-"fuente": "ABC",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "» Los colectivos sociales de Ayala llaman a salir a la calle por el derecho a la vivienda en la huelga general del 11-N",
-"url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOalhJUi1lV1FIVVIwUXVmNjF4VDllc0c2ZGR5ZFFYVHE4a2ZpOTFmMVBxTjRFSWQ2U1oxRHVGSURTVXdzMWdjbnd5ZDRyMUhrOF9UNDN5eVFjMUhNekVKN1VDeThPZHMwOTVvU01WQWJZZTFIR2NLdVlhdEtENTNiUE1OZy12Z2hNY1VZbGttaXhXYjhyblR6LXNYMlZUZ0pGMGJqRGQ3R3Rkc3VnaDRoT25lTDNfcHloUDJoQnpDdnhwVEVyemUtOWZTeG5fX2pySERCTVlldjRMTVR3SG5NWVRxUmJTTFQ0?oc=5",
-"fuente": "Radio Llodio",
-"temas": [
-"huelgas",
-"vivienda"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "Arrancan en Ezkerraldea los llamamientos a secundar la huelga general del 11N",
-"url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2NTcEhUbHdRRXpvaFY3TzdmSjBRUHRxY3NrLUVUNVhOcW8tdlRqbEVDNnNibWJpVXhSR1pxWHZjYUFpYW5vM3o4RWFET2JRM19DX2hYRGdWZWphVDNlRklObGNNbmNZYnNCSzhROEZYLVdqQkloS1JqNWtMWHl3TXd6V3o3M3pHY3h4RE94MDlSZ040bEtfRVhzdw?oc=5",
-"fuente": "tele7.tv",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "El Sindicato de Vivienda de Soria se suma a la huelga del 11 de noviembre",
-"url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDdxMXo3eFdaSUdRRk5weGstZWM1NTZQVnVkanBhR2YxSnUtZUlDVzZhdy0xRHJFRlE1ODJRaUV0MzhCVG1LVWx0aklsNFgtYjNxRHIwdWF6MnpGNXh3U0k5VGRmem41QkFrUUhYQkEzSEFuV2tvQ00zejhNb2hTNll6S0dxUVN6dWZEdndWT1BmS3RKeVRFQzMyWVc1VVRFY3hiYlMzQl82b0pKS2c3aGpVWDdxVFJXbnc?oc=5",
-"fuente": "Tribuna de Soria.",
-"temas": [
-"sindicatos",
-"huelgas",
-"vivienda"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "Acción informativa de los sindicatos en Elche para promover la participación en la huelga general",
-"url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRUVmY0tyM1dwcWFid2FNQlFuNnhUMlVjalBYT2tCeThDcDhtcWRnQ1FSQ3RWT2c4SEJQSWstUXVuSW5SWVpoZlRucVAzMXVyb29HMXIxUElKNV9JcWh1YXBQbVlKbG1oaGhDWk9JM0FrMGViRVdoVXZrN0hHQVJrYnlGX1JZUWgtOVRzbE5tRmE4V0RqLXFtNjdWRUM0TTNQejc2Xy1QS2pTT3NuYmhfY1RQUTROZURYcVBtbnFod3JCdndCTzF6eEJNQXUzWFZ3c29PbVJlWFN5NEFNbmlUSEFxbVNudE1LT3ZXXzBIQVdSa0cxUnRR0gGLAkFVX3lxTE03VVowRVU3RVZtNld0WUpSOE9IZ1BYWFRpMjU3ZzhnZjZpUEY4cjZtX1VhdVBqbXF3NlBueDFtakFBbFBoY2o5X0tCT3hGREt5Y21JSGxSWHF4a0hEME0zYzBlYUN1a3hTLWVLQUZ4T3BWOFBaWHpTMGdqOU5KcWVmemt0UVdzSXEyRGFmWjB0WVJiYXV1ZFVhMVhYRjJENm4ybnEtdy1FR0E2dXRLY05SR0NnQUdtREN5b2VrNkhzR3R5cWpJZDk3QS1DYzRMRmlXZGFYV1Z0dEtwZEFDREkzRHhCT2NNc3cydlhQQURsV1RkRlljSzBaNGZKYzB2eHpOd0xyR1dJVEJITQ?oc=5",
-"fuente": "Cadena SER",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "Claro que esta huelga va contigo (salvo que seas rico)",
-"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkRNZUVBdzFCZEhZMnlydDNuamluU1RQZF9fM0FvNDdSVm8zS0xPMl9HT0tqOV9hQV9hV092dmV1Tmdwc3hNS3pObTQ2cFd4dFhWTWlrZW9QWUR5X1U1V1VoMUtmb2FpcTlMMjZXbGhZU2wwaVE5SjBKRjBxdUc5bDVSNlVuQjk3V2VXUw?oc=5",
-"fuente": "El Salto",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "El Ayuntamiento activa el dispositivo municipal para las Elecciones Generales del 29 de noviembre",
-"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTE9RT1c5QmRncmRKbUh1bHhPY1ExNmtZRlNZRlpBb2s4UGVtVzF0VU1zeVMtWmJLaEMxTGprUldtOEIwaFdmM0ZXYnROTHQweS10c1FFS3g2MjJtMlBZRGdwSUoyRVlwLUZIYkNRQTltbHM3em03M1A5eGYxaGZlcUVUOHAxVEZGXzlzcmF3dXFkNzk4TjhrOFV1TTRYUE5DaTY1X1BaR1NyM0xXdERtd0hhN0dBc3FPZUNMVl83Wm5sMUxYTGtvcnU0dkVZZw?oc=5",
-"fuente": "Ayuntamiento de El Puerto de Santa María",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Celebrado, en un pleno extraordinario, el sorteo para la formación de las mesas electorales del 29 de noviembre",
-"url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMnc1X1I1ckExQl91ZENlV204bFZxRURsVUNPN1RkZFk0MEc3Nnp1ME16MnpaX0ZnNGtuYlVIcXM3QkF2bmI0aWtVN05RcnJwQUw4Q3ZEVUJDZGZDUHRYdGhXOTJ1TmsyQWc?oc=5",
-"fuente": "Ayuntamiento de Tomelloso",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Ana Redondo pasa a ser la cabeza de lista del PSOE para el 29N",
-"url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN3hHSHlnRnFuY1JUM0QwaGR1V3djQjRZVXpWNk5DZEQxRl9GTFlidFE0ek9rdnJudEdpN3VrRmlRclgxOXk3b2x2NFh4YUlIcjk3NmFaODM3enhmd3NDdUFpY0tRSXVIYzZlLWJFNHdCMjhqQzhIdXBmM2MyMGVGQlZzMmUxdlE2anFzSlJIYV9SSjdsaWgyS0Q5bW1KanE5YlFJM19oZG83Tk5iLVpsUElBc3ZwSFEzcXRtaGVhWGpJOFY5NlNubXFjTFVwd0VZWWs0cU1ESkhoNm1OcWZVOEF3?oc=5",
-"fuente": "El Día de Valladolid",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Juanma Moreno sobre la dimisión de Óscar Puente: «Sánchez ha visto que ahora es un lastre político de cara a las elecciones del 29 de noviembre»",
-"url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnlFZlZXOFhLbjJpZXpYNm9aTThBcFJuaTNCY1pZQXVVS2hDbWtyVFYzeXVPa2lWemluQVZLOVRPMmVsNlhOdHRodlRXc3NWNEdhVUJJQjRaWEFfcnFyLTJINncwd3I0Y1pKU0pOYUdaSEVMQ19EZi0xOGFBTTZjNFVJaVliLXNKaERLNnUxTHlHVWpacXRzYm1iODRYRUlma0lsdHU4QjlDSHJETkHSAbMBQVVfeXFMT21ocm00MDl2VE1iSXJYd1RPbmozTHllMi1pR1V1N1hiUFVlcWNPNXFPQ2R4R2JHYmltUE42OEpfNHBwRk9NdWVlaTBjcUQ4SlFkaHd2ak40SDhHaDQwSm9ZRXg5b3NGTEVzcXRwVU1XSUJUZFJOQUpFbmhsT09vUzFMMVJDMGduSlNLcXl0VVQ3LWV1TUphVXA4SnUtYTVITWl1Y2RSOXI1OVFVTTRIeEFIY3M?oc=5",
-"fuente": "ABC",
-"temas": [
-"politica"
-],
-"prioridad": "media",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": false
-},
-{
-"titulo": "Adif: huelga el 17 de noviembre",
-"url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalZDd3lYRjl1UGJWWjRJdTd4enJfMjFleWk5MkY5eGZFc3RSRDNEbUlHbHg4bzh0M3UxT0c3N2IxbW02TVRMUnVxM2JSb0Y2M2xyRVhwa0sxRi1NdjNuYkZOdHAxVWcwanNrTWFsTXRWVUgzQ0VCM01VUWNacVNJcVBVQURGbFZ4dENVc3dxVHpkbHNJSkZB0gGXAUFVX3lxTE9qVkN3eVhGOXVQYlZaNEl1N3h6cl8yMWV5aTkyRjl4ZkVzdFJEM0RtSUdseDhvOHQzdTFPRzc3YjFtbTZNVExSdXEzYlJvRjYzbHJFWHBrSzFGLU12M25iRk50cDFVZzBqc2tNYWxNdFZVSDNDRUIzTVVRY1pxU0lxUFVBREZsVnh0Q1Vzd3FUemRsc0lKRkE?oc=5",
-"fuente": "Radio Intereconomía",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "La huelga de Adif del 17 de noviembre se suma a los paros de maquinistas y amenaza con colapsar el tren",
-"url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aWWIzdEUzUXg0T19yRnZpZmFELUdZNzZIaHg3Q0pXUnhDWkxBQ3BiVFlLQXZfX2dldG5sanFJa2xqYkFuOVRkRzdITnVFcXZBM2VjeW0yNzh6TjBFMTFzRkNubi1iQQ?oc=5",
-"fuente": "Qué.es",
-"temas": [
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "La Aemet activa el aviso naranja el miércoles por lluvias torrenciales y tormentas en las comarcas de Lorca y Cartagena",
-"url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSjNvTzM1dHdXTmp5LUt6NllieVUxWGZIUGlSTEhwcERUdFY3RFBYNzY1WlNQRmdJQzB6YldFckp6YlU5Rks4Mlc2TjVaNHdfWWtSclhwVVJJR052R0NJZnUzMlNKOWNPblVyQ3YxLXluOTlTaHJGYm5URTZleUNxaEkzT3M0dl9nVHdZcnVMWWM3eWxEQ0trdjQ1Y1BZZTRvQUZMMHpJVWNTV3JaS19FTXpFNjBuZ1VoVURnQURUbHVhQURVcXlkRTZzcmJFQXpNTklxaWtPY1dGeVhrYTlCcTRIRGNjazc5NDlUTHNQZmhSajFyeHFpY0NmakJnTmRZRHYtcjQ3dmE3YnIyWUJTZTI5VdIBmAJBVV95cUxQbW52MlM2bjBXX2VBUWF0ejM2T1JnNjJxaDlsYlliaWpsZW1SdzhBZWw4RWdkZ0IwTlhlM2t5WGRHZHNwWXJBNGpmQ3B0VU1FRGtRSHFMSDlUcFRiMS0zRXNGOW1JVHN3WkltMFBEaGprTnRiMmdzaDhWOVVMOTRBQXVkem5rN2w5UXNmbXViSjE3MVRwaGQwWTRhX2lMTWpuWXRpY0hud1FWQkJzV0pDR3FGSk50YXJaUEJydWd4eGVNUExWZ1NNZWNXWFJEdkcyTHpGQTZZV3puby1ZMm82Zk10dUhWa0dNNjJnSzRFUmh6ZEtfWGhWOE9wSVVOa05GUFdoTlVOWGVyRHVhamRIbk1QSFAxN0p6?oc=5",
-"fuente": "COPE",
-"temas": [
-"emergencias"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-},
-{
-"titulo": "Feijóo exige a los sindicatos desconvocar la huelga del 11N: \"69 muertos después es un grave error\" porque \"ligarán su imagen a Pedro Sánchez\" pero UGT considera insultante la propuesta",
-"url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYlJwaEQtNE80bHBOa2lmNkRMa3J4Y0IzNGJjYlBYRGp2dlA3b3dEQzVIZWk2eXpjUGx6VXN1T1RpWlltMTV4dFdsaHJjclRYb3NTdTlFY1FuMXpOeE4wLURCLWVtMHJUd1FDZ1JmVGlsOTZOQ1hRR2w5a254cXJjcG9vLUFZaDlSSWItVEFvQlZ5b0J1Tk5YNl9TTXdPU29kRWgzbVdjc1ctSUV6NGwxMXlLcEZaWXNuSUpaSVhjSFRyS19WZVY1SHBwRVVWTm9CSElVY3d2aXlwZldxV2R6MHdpSWhqMUZ3aXhkalpISzZjNC1DQ3R2QkRyNnJtdHM5ay1hQ3Y1dHFnczI2NURZbjkzRTloWFlIcEJja0Y3MkVtNXd2ekdmRXNzYkg5Tl91ZWdmMHRBQUZaeDFjLVAxdWhRVUk?oc=5",
-"fuente": "El Correo de Pozuelo",
-"temas": [
-"sindicatos",
-"huelgas"
-],
-"prioridad": "alta",
-"ambito": "nacional",
-"ts": "2026-11-04T01:42:09+00:00",
-"alertado": true
-}
-],
+"ultimo_item": "2026-11-04T08:06:47+00:00",
+"ultimo_resumen": "2026-11-04T08:06:47+00:00",
+"pendientes": [],
 "hist_temas": {
 "otros": [
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
 "2026-11-03T16:05:17+00:00",
 "2026-11-03T16:05:17+00:00",
 "2026-11-03T16:05:17+00:00",
@@ -26329,12 +26126,19 @@
 "2026-11-04T01:42:09+00:00",
 "2026-11-04T01:42:09+00:00",
 "2026-11-04T01:42:09+00:00",
-"2026-11-04T01:42:09+00:00"
+"2026-11-04T01:42:09+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00"
 ],
 "eventos": [
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
-"2026-11-03T07:59:45+00:00",
 "2026-11-03T16:05:17+00:00",
 "2026-11-03T16:05:17+00:00",
 "2026-11-03T16:05:17+00:00",
@@ -26351,7 +26155,9 @@
 "2026-11-03T21:43:23+00:00",
 "2026-11-03T21:43:23+00:00",
 "2026-11-03T21:43:23+00:00",
-"2026-11-04T01:42:09+00:00"
+"2026-11-04T01:42:09+00:00",
+"2026-11-04T08:06:47+00:00",
+"2026-11-04T08:06:47+00:00"
 ],
 "vivienda": [
 "2026-11-03T16:05:17+00:00",
@@ -26442,7 +26248,8 @@
 "2026-11-03T21:43:23+00:00",
 "2026-11-04T01:42:09+00:00",
 "2026-11-04T01:42:09+00:00",
-"2026-11-04T01:42:09+00:00"
+"2026-11-04T01:42:09+00:00",
+"2026-11-04T08:06:47+00:00"
 ],
 "huelgas": [
 "2026-11-03T16:05:17+00:00",
@@ -26469,7 +26276,7 @@
 "movilidad": [],
 "servicios": []
 },
-"ultima_pasada": "04/11 02:42",
+"ultima_pasada": "04/11 09:07",
 "tg_offset": 959138647,
 "pico_avisado": {
 "politica": "2026-11-03T16:05:17+00:00",
